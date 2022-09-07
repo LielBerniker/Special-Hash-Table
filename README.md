@@ -1,1 +1,2 @@
-# Special-Hash-Tablethis project represent a special hash table by the rules in the description file below
+# Special-Hash-Table
+this project represent a special hash table by the rules in the description file below
