@@ -1,3 +1,3 @@
 # Special-Hash-Table
 this project represent a special hash table by the rules in the description file below
-![My Image](my-image.jpg)
+![My Image](assigment.PNG)
